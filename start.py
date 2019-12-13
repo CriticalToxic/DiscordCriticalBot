@@ -258,4 +258,4 @@ async def membercount():
 client.loop.create_task(membercount())
 
 
-client.run('MjU5NzgxNTMyODQxOTM0ODQ4.XbnNtw.2Ng8ohNk7W2kyusZca30UwwmPB0')
+client.run('INSERT TOKEN')
